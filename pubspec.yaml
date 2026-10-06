@@ -1,0 +1,14 @@
+name: moneymate
+description: Offline money management app (Flutter Web)
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.69.0
+  intl: any
+  shared_preferences: ^2.3.0
+flutter:
+  uses-material-design: true
